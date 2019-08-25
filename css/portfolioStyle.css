@@ -8,6 +8,15 @@
     font-family: 'Lexend Deca', sans-serif;
 }
 
+img {
+    width: 12%;
+    height: 12%
+}
+
+.mainSection {
+    margin-left: 5%;
+}
+
 /* footer */
 body {
     display: flex;
